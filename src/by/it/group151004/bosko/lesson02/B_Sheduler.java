@@ -10,6 +10,8 @@ import java.util.List;
 Алгоритм жадный. Для реализации обдумайте надежный шаг.
 */
 
+//adDSADASD
+
 public class B_Sheduler {
     //событие у аудитории(два поля: начало и конец)
     static class Event {

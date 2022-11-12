@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.*;
 
 //Lesson 3. A_Huffman.
+//ASDASD
 //Разработайте метод encode(File file) для кодирования строки (код Хаффмана)
 
 // По данным файла (непустой строке ss длины не более 104104),
